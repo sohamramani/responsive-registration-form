@@ -1,0 +1,13 @@
+.registrationform {
+    margin-top: 140px;
+}
+.register {
+    padding-left: 165px;
+    padding-right: 165px;
+}
+.firstname {
+    max-height: 40px;
+}
+.lastname {
+    max-height: 40px;
+}
